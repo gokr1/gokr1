@@ -1,7 +1,7 @@
 <img src="https://github.com/gokr1/gokr1/blob/main/SF.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Rumeysa Gok</h1>
-<h3 align="center">Service Desk agent from Portugal</h3>
+<h3 align="center">Service Desk Agent from Portugal</h3>
 
 - 🔭 I’m currently working on **Service Desk Agent**
 
